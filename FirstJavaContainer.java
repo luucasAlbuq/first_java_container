@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class FirstJavaContainer {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
